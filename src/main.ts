@@ -1,5 +1,5 @@
 import "./style.css";
-import "./solid/03-lsp-a";
+import "./solid/05-dip-a";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
